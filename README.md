@@ -38,3 +38,12 @@ walk you through the `Comparable` interface and `sort` method.
 Display the Double Helix Animation.
 Allow the programmer to change the value of `num` to set
 the number of Circles in the helix.
+
+## Extensions
+
+Experiment more with Sine functions. Can you make a 3 or 4 segment helix?
+
+What other patterns can you make?
+- Can you make the helix longer?
+- How would you make it spin faster/slower?
+- Can you make the radius of the path of the circles oscillate so that the helix widens and narrows sinusoidally?
